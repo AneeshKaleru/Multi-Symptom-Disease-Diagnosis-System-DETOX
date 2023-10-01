@@ -1,0 +1,158 @@
+.navbar{
+    font-size: 1.25rem;
+    font-family: 'Jockey One', sans-serif;
+}
+
+ .log{
+    color: #eb0000;
+}
+  
+body{
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+a{
+    text-decoration: none;
+    color: #eb0000;
+}
+
+a:hover{
+    color: #101010;
+}
+
+h2{
+    font-family: 'Jockey One', sans-serif;
+    padding-top: 35px;
+    font-size: 3.5rem;
+}
+
+h3{
+    font-weight: 900;
+}
+  
+
+.col-sm-8{
+    background-color: #101010;
+    padding-top: 150px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.col-sm-4{
+    background-color: #101010;
+    padding: 0px;
+}
+
+.tophead{
+    margin: 20px;
+    color: white;
+    font-size: 42px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.content{
+    color: #f9f9f9;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.topimg{
+    width: 100%;
+}
+
+
+.middle-container{
+    background-color: #aaaaaa;
+    position: relative;
+    padding-bottom: 0px;
+}
+
+.wid{
+    padding-top: 40px;
+}
+
+.btn {
+      background-color: #eb0000;
+      background-image: -webkit-linear-gradient(top, #eb0000, #eb0000);
+      background-image: -moz-linear-gradient(top, #eb0000, #eb0000);
+      background-image: -ms-linear-gradient(top, #eb0000, #eb0000);
+      background-image: -o-linear-gradient(top, #eb0000, #eb0000);
+      background-image: linear-gradient(to bottom, #eb0000, #eb0000);
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      color: white;
+      font-size: 16px;
+      padding: 10px 20px 10px 20px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      text-decoration: none;
+      width: 15%;
+      font-weight: 900;
+  }
+  
+.btn:hover {
+      background-color: white;
+      text-decoration: none;
+      color: #101010;
+  }
+
+
+.dp{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pr{
+    width: 25%;
+    float: right;
+}
+
+.ei{
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+
+.middle-div{
+    width: 70%;
+    margin: 70px auto;
+    text-align: left;
+    padding: 30px;
+    color: #101010;
+    font-weight: 600;
+}
+
+.para{
+   font-size: large;
+}
+
+.contact-me{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: #101010;
+    color: #f9f9f9;
+}
+
+.bottom-container{
+    background-color: #f9f9f9;
+    padding: 30px; 
+}
+
+.diagnosis{
+    width: 50%;
+    margin: 50px auto;
+}
+
+
+
+
+
+
+
+
+
+

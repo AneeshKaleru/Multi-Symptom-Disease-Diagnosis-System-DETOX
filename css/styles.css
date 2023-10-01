@@ -1,0 +1,26 @@
+.top-container{
+  text-align: center;
+}
+
+button {
+    background-color: white;
+    background-image: -webkit-linear-gradient(top, white, white);
+    background-image: -moz-linear-gradient(top, white, white);
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Rajdhani', sans-serif;
+    color: #101010;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 20%;
+}
+
+button:hover {
+    background-color: #eb0000;
+    text-decoration: none;
+}

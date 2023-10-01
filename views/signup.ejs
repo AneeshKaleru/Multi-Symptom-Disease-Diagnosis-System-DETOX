@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DETOX | SignUp</title>
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Jockey+One&family=Merriweather&family=Montserrat:wght@500&family=Philosopher&family=Rajdhani:wght@400;600;700&family=Rubik+Mono+One&family=Russo+One&family=Sacramento&display=swap" rel="stylesheet">
+
+<style>
+
+body {
+  background-color: #aaaaaa;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.container {
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 40%;
+  margin: 80px auto;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: none;
+  background-color: #FFFFFF;
+  font-family: 'Rajdhani', sans-serif;
+  border-radius: 4px;
+  color: #000000;
+}
+
+button {
+    background-color: white;
+    background-image: -webkit-linear-gradient(top, white, white);
+    background-image: -moz-linear-gradient(top, white, white);
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Rajdhani', sans-serif;
+    color: #101010;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 50%;
+}
+
+button:hover {
+    background: #eb0000;
+    text-decoration: none;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #eb0000;
+}
+
+</style>
+</head>
+
+
+<body>
+  <div class="container">
+    <h1>Sign Up</h1>
+    <form action="/signup" method="post">
+      <input type="text" placeholder="Enter your Name" required name="name">
+      <input type="email" placeholder="Enter your Email Address" required name="email">
+      <input type="password" placeholder="Enter your Password" required name="password">
+      <button type="submit">Sign Me Up!</button>
+      <br>
+      <br>
+      <p>Already have an account? <a href="/">Sign In</a></p>
+    </form>
+  </div>
+</body>
+</html>
