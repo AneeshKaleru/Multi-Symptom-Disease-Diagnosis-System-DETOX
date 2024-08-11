@@ -6,6 +6,7 @@ Detox is an advanced Disease Prediction System built with Node.js and Express, h
 - **Real-Time Predictions**: Delivers real-time predictions based on user input, allowing for prompt and informed decision-making.
 - **Advanced Machine Learning Algorithms**: Utilizes cutting-edge machine learning algorith (Random Forest), to enhance the accuracy of disease predictions.
 - **Intuitive User Experience**: Offers a seamless and easy-to-navigate interface that simplifies data entry and interpretation of results.
+- **High Accuracy Rate**: Achieved a high accuracy rate (92%) in predicting diseases, ensuring reliable results.
 
 ## 😷 Results
 
