@@ -1,8 +1,13 @@
-# Multi-Symptom-Disease-Diagnosis-System-DETOX
+# 🩺 DETOX: A Multi Symptom Disease Diagnosis System
 
-Detox is an advanced Disease Prediction System built with Node.js and Express, harnessing the power of Random Forest for machine learning. This innovative platform empowers individuals to take control of their health by providing accurate disease predictions and personalized recommendations. With an elegant yet balanced approach, Detox offers a range of functionalities to enhance the user experience and facilitate proactive health management. At its core, Detox utilizes Random Forest, a powerful machine learning algorithm , to analyze user-provided symptoms, medical history, and lifestyle data.
+Detox is an advanced Disease Prediction System built with Node.js and Express, harnessing the power of Random Forest for machine learning. This innovative platform empowers individuals to take control of their health by providing accurate disease predictions and personalized recommendations. With an elegant yet balanced approach, Detox offers a range of functionalities to enhance the user experience and facilitate proactive health management. At its core, Detox utilizes **Random Forest**, a powerful machine learning algorithm , to analyze user-provided symptoms, medical history, and lifestyle data.
 
-Through its seamless interface and additional functionalities, Detox supports individuals in their pursuit of proactive health management and empowers them to make informed decisions for a healthier future.
+## 🚀 Features
+- **Real-Time Predictions**: Delivers real-time predictions based on user input, allowing for prompt and informed decision-making.
+- **Advanced Machine Learning Algorithms**: Utilizes cutting-edge machine learning algorith (Random Forest), to enhance the accuracy of disease predictions.
+- **Intuitive User Experience**: Offers a seamless and easy-to-navigate interface that simplifies data entry and interpretation of results.
+
+## 😷 Results
 
 <img width="957" alt="Screenshot 2023-10-01 153800" src="https://github.com/AneeshKaleru/Multi-Symptom-Disease-Diagnosis-System-DETOX/assets/121757425/9ad63599-0afd-4ae0-98e3-b837acfcbd6e">
 <img width="960" alt="Screenshot 2023-10-01 153813" src="https://github.com/AneeshKaleru/Multi-Symptom-Disease-Diagnosis-System-DETOX/assets/121757425/28740eb7-fc9e-4c2f-b56e-c838d8a1b393">
@@ -18,5 +23,11 @@ Through its seamless interface and additional functionalities, Detox supports in
 <img width="947" alt="Screenshot 2023-10-01 154150" src="https://github.com/AneeshKaleru/Multi-Symptom-Disease-Diagnosis-System-DETOX/assets/121757425/bc84e357-cb53-41bd-b27e-77579415feed">
 <img width="960" alt="Screenshot 2023-10-01 154247" src="https://github.com/AneeshKaleru/Multi-Symptom-Disease-Diagnosis-System-DETOX/assets/121757425/6306065a-2c06-4cb5-aaa9-b21c24a44e79">
 
+## 📨 Contact
+
+For any inquiries or feedback, please reach out to:
+- **Name**: Aneesh Kaleru
+- **Email**: aneesh.kaleru@gmail.com
+- **GitHub**: [Aneesh-Kaleru](https://github.com/AneeshKaleru)
 
 
